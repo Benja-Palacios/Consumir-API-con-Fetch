@@ -1,0 +1,12 @@
+.contenedorUsers{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contenedorUsersTable{
+    width: 100%;
+    border: 2px solid black;
+}
+.encabezado{
+ background-color: bisque;
+}
